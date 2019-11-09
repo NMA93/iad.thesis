@@ -2,13 +2,11 @@
 Bildungsgang Interaction Design HF <br>
 Dipl. Gestalter/-in HF, Kommunikationsdesign mit Vertiefungsrichtung Interaction Design
 
----
-
 # Exposé für eine Thesisarbeit zum Thema:
 
-**Inwiefern können Sprachassistenten (VUI) helfen bestehende oder mögliche Krankheiten zu erkennen?**
+> Inwiefern können Sprachassistenten (VUI) helfen bestehende oder mögliche Krankheiten zu erkennen?
 
-Eine Analyse von Voice User Interfaces im Bereich Gesundheitswesen
+Eine Analyse des Einsatzes von Sprachassistenten im Bereich Gesundheitswesen
 
 ## Vorgelegt von:
  
@@ -31,7 +29,18 @@ Datum: 29.11.2019
 
 # Zeitplan
 
-
+| Zeit           | Task                                                                               |
+|----------------|------------------------------------------------------------------------------------|
+| Ab 10.11.2019  | Weitere Literaturrecherche                                                         |
+| Bis 29.11.2019 | Thematische Hinführung                                                             |
+| 22.11.2019     | *Mentorat mit Ulrike Felsing*                                                      |
+| 29.11.2019     | **Abgabe Exposé**                                                                  |
+| 6.12.2019      | *Mentorat mit Ulrike Felsing*                                                      |
+| 13.12.2019     | Rohfassung Hauptteil                                                               |
+| 27.12.2019     | Rohfassung Einleitung + Schluss                                                    |
+| 3.1.2019       | Überarbeitung + Korrektur; Überarbeitung + Korrektur; *Mentorat mit Ulrike Felsing* |
+| 11.1.2020      | **Abgabe der Thesis auf Git-Repository**                                           |
+| 31.1.2020      | Verteidigung                                                                       |
 
 # Literaturverzeichnis
 
