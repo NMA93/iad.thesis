@@ -4,7 +4,7 @@ Dipl. Gestalter/-in HF, Kommunikationsdesign mit Vertiefungsrichtung Interaction
 
 # Exposé für eine Thesisarbeit zum Thema
 
-## Inwiefern kann der Einsatz von Sprachassistenten (VUI) einem Menschen helfen bestehende oder auftretende Krankheiten selbst zu erkennen?
+### «Inwiefern kann der Einsatz von Sprachassistenten (VUI) einem Menschen helfen bestehende oder auftretende Krankheiten selbst zu erkennen?»
 
 > Eine Analyse des Einsatzes von Sprachassistenten für die Selbstversorgung im Bereich Gesundheitswesen
 
