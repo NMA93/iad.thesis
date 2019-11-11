@@ -8,6 +8,10 @@ Dipl. Gestalter/-in HF, Kommunikationsdesign mit Vertiefungsrichtung Interaction
 
 > Eine Analyse des Einsatzes von Sprachassistenten für die Selbstversorgung im Bereich Gesundheitswesen
 
+## Mentoring durch 
+
+Ulrike Felsing
+
 ## Vorgelegt von
  
 Lars Mäder<br>
@@ -29,14 +33,34 @@ Datum: 29.11.2019
 
 # Problemstellung
 
+Husten, Kopfschmerzen, erhöhte Temperatur, Gliederschmerzen, Frösteln – klassische Symptome einer Grippe. Oder einer einfachen Erkältung? Es ist daher keineswegs verwunderlich, dass eine Erkältung oft fälschlicherweise mit einer Grippe gleichgesetzt wird. In beiden Krankheitsverläufen lassen sich die Symptome in den Anfängen ohne medizinische Kenntnisse beinahe nicht voneinander unterscheiden. Eine Nichtbehandlung der Grippe kann dagegen im schlimmsten Fall mit einem tödlichen Verlauf enden.
+
+Erwischt man nun die Grippe ausgerechnet an einem Wochenende fällt der Weg in den Notfall wohl leichter als den Besuch beim Hausarzt abzuwarten. 
+
+
 # Zielsetzung und Erkenntnisinteresse
+
+## Ziel der Arbeit
 
 # Vorläufige Gliederung
 
-* Einleitung
-* Hauptteil
-    * Erarbeitung der Thesis
-* Fazit und Disskusion
+1.  Einleitung
+2.  Kommunikation über VUI am Beispiel von Alexa
+    * Funktionsweise 
+    * Alexa Skills
+3.  Gesundheitsinformationen NHS
+    * NHS kurz erklärt
+    * Zusammenarbeit mit Alexa Skill
+    * Zielpublikum
+    * Wie wird es genutzt
+4.  Diagnose von Dr. Alexa
+    * Health Navigator
+    * Workflow
+    * API Anbindung
+    * Diagnose
+5.  Fazit und Disskusion
+    * Qualität der Diagnose
+    * Kostensenkung
 
 # Zeitplan
 
@@ -51,7 +75,7 @@ Datum: 29.11.2019
 | 27.12.2019    | Rohfassung Einleitung + Schluss                              |
 | 03.1.2019     | Überarbeitung + Korrektur <br> *Mentorat mit Ulrike Felsing* |
 | 04.1.2019     | Überarbeitung + Korrektur                                    |
-| 11.1.2020     | **Abgabe der Thesis auf Git-Repository**                     |
+| 11.1.2020     | **Abgabe der Thesis**                                        |
 | 31.1.2020     | Verteidigung                                                 |
 
 # Literaturverzeichnis
@@ -74,3 +98,11 @@ Datum: 29.11.2019
 * [Voice Analysis Tech Could Diagnose Disease](https://www.technologyreview.com/s/603200/voice-analysis-tech-could-diagnose-disease/)
 * [Mayo Clinic study shows voice-analyzing app may be useful in heart disease diagnosis](https://www.mobihealthnews.com/content/mayo-clinic-study-shows-voice-analyzing-app-may-be-useful-heart-disease-diagnosis)
     * [Result of Study Poster](https://pr.blonde20.com/wp-content/uploads/2016/11/Beyond-Verbal-and-Mayo-Clinic-CAD-Poster.jpg)
+
+
+
+https://www.nomos-elibrary.de/10.5771/0010-3497-2017-4-485/voice-first-eine-analyse-des-potentials-von-intelligenten-sprachassistenten-am-beispiel-amazon-alexa-jahrgang-50-2017-heft-4
+
+https://www.nomos-elibrary.de/10.5771/0010-3497-2017-4-485/voice-first-eine-analyse-des-potentials-von-intelligenten-sprachassistenten-am-beispiel-amazon-alexa-jahrgang-50-2017-heft-4
+
+https://www.forbes.com/sites/bernardmarr/2018/10/05/how-does-amazons-alexa-really-work/#a29b55a1937f
