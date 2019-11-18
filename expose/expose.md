@@ -36,11 +36,7 @@ mail@larsmaeder.ch<br>
 
 # Problemstellung
 
-```
-Husten, Kopfschmerzen, erhöhte Temperatur, Gliederschmerzen, Frösteln – klassische Symptome einer Grippe. Oder einer einfachen Erkältung? Es ist daher keineswegs verwunderlich, dass eine Erkältung oft fälschlicherweise mit einer Grippe gleichgesetzt wird. In beiden Krankheitsverläufen lassen sich die Symptome in den Anfängen ohne medizinische Kenntnisse beinahe nicht voneinander unterscheiden. Eine Nichtbehandlung der Grippe kann dagegen im schlimmsten Fall mit einem tödlichen Verlauf enden.
-
-Erwischt man nun die Grippe ausgerechnet an einem Wochenende fällt der Weg in den Notfall wohl leichter als den Besuch beim Hausarzt abzuwarten.
-``` 
+Vergleicht man die klassischen Symptome einer Grippe mit einer Erkältung, fällt schnell auf, dass sich die Merkmale zueinander fast nicht unterscheiden lassen. Besonders für nicht medizinisch ausgebildete Personen, sind diese kaum zu unterscheiden. Es ist daher keineswegs verwunderlich, dass erkrankte Menschen auf Nummer sicher gehen wollen und sofort Ihren Artz des Vertrauens aufsuchen möchten, auch wenn es sich wahrscheinlich nur um eine Bagatelle handeln könnte. Verschiedene Modelle wie Hausarzt- oder Telmed-Modelle probieren abhilfe zu schaffen, finden aber keinen grossen Anklang und verlieren an Attraktivität. 
 
 # Zielsetzung und Erkenntnisinteresse
 
