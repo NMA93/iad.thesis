@@ -1,3 +1,6 @@
+*Provisorisch*<br>
+Datum: 29.11.2019
+
 **Schule für Gestaltung Zürich** <br>
 Bildungsgang Interaction Design HF <br>
 Dipl. Gestalter/-in HF, Kommunikationsdesign mit Vertiefungsrichtung Interaction Design
@@ -6,21 +9,21 @@ Dipl. Gestalter/-in HF, Kommunikationsdesign mit Vertiefungsrichtung Interaction
 
 ### «Inwiefern kann der Einsatz von Sprachassistenten (VUI) einem Menschen helfen bestehende oder auftretende Krankheiten selbst zu erkennen?»
 
-> Eine Analyse des Einsatzes von Sprachassistenten für die Selbstversorgung im Bereich Gesundheitswesen
+> Eine Analyse der Selbstversorgung des Einsatzes von Sprachassistenten aufgrund eines Krankheitsfalls
 
 ## Mentoring durch 
 
-Ulrike Felsing
+**Ulrike Felsing**<br>
+ulrike.felsing@sfgz.ch<br>
+HFIAD 2017<br>
+Schule für Gestaltung Zürich
 
 ## Vorgelegt von
  
-Lars Mäder<br>
+**Lars Mäder**<br>
 Zürichstrasse 8<br>
 8610 Uster<br>
 mail@larsmaeder.ch<br>
-Fachsemester: 5<br>
- 
-Datum: 29.11.2019
 
 # Inhaltsverzeichnis Exposé
 
@@ -33,34 +36,63 @@ Datum: 29.11.2019
 
 # Problemstellung
 
+```
 Husten, Kopfschmerzen, erhöhte Temperatur, Gliederschmerzen, Frösteln – klassische Symptome einer Grippe. Oder einer einfachen Erkältung? Es ist daher keineswegs verwunderlich, dass eine Erkältung oft fälschlicherweise mit einer Grippe gleichgesetzt wird. In beiden Krankheitsverläufen lassen sich die Symptome in den Anfängen ohne medizinische Kenntnisse beinahe nicht voneinander unterscheiden. Eine Nichtbehandlung der Grippe kann dagegen im schlimmsten Fall mit einem tödlichen Verlauf enden.
 
-Erwischt man nun die Grippe ausgerechnet an einem Wochenende fällt der Weg in den Notfall wohl leichter als den Besuch beim Hausarzt abzuwarten. 
-
+Erwischt man nun die Grippe ausgerechnet an einem Wochenende fällt der Weg in den Notfall wohl leichter als den Besuch beim Hausarzt abzuwarten.
+``` 
 
 # Zielsetzung und Erkenntnisinteresse
 
+Das Ziel dieser Arbeit ist es eine grobe Übersicht des aktuellen Forschungstands der aktuellen Sprachassistenen aufzuzeigen und anhand von konkreten Beispielen mit Alexa Skills, die mögliche Unterstützung und Diagnosestellung durch Alexa bei Krankheitsfällen zu analysieren.
+
+Die Anwendung von Alexa bei einem möglichen Krankheitsfalls wird anhand zweier Case Studys untersucht und mit einem klassischen Besuch/Ablauf bei einem Arzt/Notfall verglichen, um zu sehen inwiefern diese den Menschen unterstützen können eine selbständige Diagnose zu stellen und so eine frühzeitige Behandlung anvisiert werden kann.
+
 ## Ziel der Arbeit
+
+* Aktueller Technischer Stand von Sprachassitenten zusammenfassen und präsentieren
+* Die Anwendung von Alexa Skills anhand des Anwendungsbeispiel von NHS aufzeigen
+* Proof of Concept von Macadamians Health Navigator zusammenfassen und präsentieren
+* anhand der Ergebnisse die folgende Frage beantworten: 
+«Inwiefern kann der Einsatz von Sprachassistenten (VUI) einem Menschen helfen bestehende oder auftretende Krankheiten selbst zu erkennen?»
+
+Es wird erwartet, dass die Ergebnisse der Arbeit zeigen, dass durch den Einsatz von Sprachassistenten (VUI) eine konkrete und schnelle Diagnose gestellt werden kann, so den möglichen Arztbesuch bei Bagatellfällen verhindert und je nach Krankheitsfall sogar eine Mögliche Behandlung vorgeschlagen wird. 
+
+### Die folgenden Fragen sollen beantwortet werden:
+
+* Wie funktionieren Sprachassistenen (VUI)?
+* Wie können Sprachassistenen (VUI) dem Mensch helfen eine Diagnose zu stellen?
+* Inwiefern kann durch VUI eine frühzeitige Diagnose/Erkennung von Krankheiten beim Menschen erzielt werden? 
 
 # Vorläufige Gliederung
 
-1.  Einleitung
-2.  Kommunikation über VUI am Beispiel von Alexa
-    * Funktionsweise 
+1.  Einleitung *(ca. 2.500 Zeichen mit Leerzeichen)*
+2.  Was sind Sprachassistenten? *(ca. 4.000 Zeichen mit Leerzeichen)*
+    * Funktionsweise
+    * Welche Sprachassistenen gibt es (Stand 2019)? 
+        * Alexa
+        * Siri
+        * Google Voice
     * Alexa Skills
-3.  Gesundheitsinformationen NHS
-    * NHS kurz erklärt
-    * Zusammenarbeit mit Alexa Skill
-    * Zielpublikum
-    * Wie wird es genutzt
-4.  Diagnose von Dr. Alexa
-    * Health Navigator
-    * Workflow
-    * API Anbindung
-    * Diagnose
-5.  Fazit und Disskusion
-    * Qualität der Diagnose
-    * Kostensenkung
+        * Differenzierungen von Skills
+        * Natural Language Programing (NLP)
+3.  Ablauf bei einem Krankheitsbefall *(2.500 Zeichen mit Leerzeichen)*
+    * Hausarzt
+    * Notfall
+3.  Medizinische Beratung von National Health Service (NHS) in Großbritannien über Alexa *(ca. 8.000 Zeichen mit Leerzeichen)*
+    * Was ist der National Health Service
+    * Zusammenarbeit mit Amazon Alexa
+    * Technische Funktionsweise des Alexa Skills (API)
+    * Anwendung an einem Beispiel (Customer Journey)
+        * +Vergleich am klassischem Ablauf
+4.  Eigenständig Diagnosen stellen mit Alexa Health Navigator *(ca. 8.000 Zeichen mit Leerzeichen)*
+    * Health Navigator von Macadamian
+    * Technische Funktionsweise des Alexa Skills (API)
+    * Proof of Concept 
+    * Anwendung an einem Beispiel (Customer Journey)
+        * +Vergleich am klassischem Ablauf
+5.  Diskussion (pro und contra) *(ca. 4.000 Zeichen mit Leerzeichen)*
+6.  Fazit *( ca. 3.000 Zeichen mit Leerzeichen)*
 
 # Zeitplan
 
@@ -82,6 +114,8 @@ Erwischt man nun die Grippe ausgerechnet an einem Wochenende fällt der Weg in d
 
 * [Manuela Lenzen: Künstliche Intelligenz: Was sie kann & was uns erwartet](https://books.google.ch/books/about/K%C3%BCnstliche_Intelligenz.html?id=-7VGDwAAQBAJ&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false)
 * [Andre Hellwig, Dr. Sven Meister, Caroline Schneider, Prof. Dr. Wolfgang Deiters: Sprachassistenten in der ambulanten Pflege](https://www.researchgate.net/profile/Denny_Paulicke/publication/325697989_Aufgeschlossenheit_und_Fortbildungsinteresse_von_PflegeschulerInnen_zu_technischen_und_digitalen_Assistenzsystemen_Ergebnisse_einer_Onlineerhebung/links/5b1ebcb4aca272277fa6ff60/Aufgeschlossenheit-und-Fortbildungsinteresse-von-PflegeschuelerInnen-zu-technischen-und-digitalen-Assistenzsystemen-Ergebnisse-einer-Onlineerhebung.pdf#page=80)
+* [Jonas Bedford-Strohm, Voice First? Eine Analyse des Potentials von intelligenten Sprachassistenten am Beispiel Amazon Alexa](https://www.nomos-elibrary.de/10.5771/0010-3497-2017-4-485/voice-first-eine-analyse-des-potentials-von-intelligenten-sprachassistenten-am-beispiel-amazon-alexa-jahrgang-50-2017-heft-4)
+* [Marketing mit Sprachassistenten](https://www.springer.com/gp/book/9783658256494)
 
 # Quellenverzeichnis
 
@@ -98,11 +132,4 @@ Erwischt man nun die Grippe ausgerechnet an einem Wochenende fällt der Weg in d
 * [Voice Analysis Tech Could Diagnose Disease](https://www.technologyreview.com/s/603200/voice-analysis-tech-could-diagnose-disease/)
 * [Mayo Clinic study shows voice-analyzing app may be useful in heart disease diagnosis](https://www.mobihealthnews.com/content/mayo-clinic-study-shows-voice-analyzing-app-may-be-useful-heart-disease-diagnosis)
     * [Result of Study Poster](https://pr.blonde20.com/wp-content/uploads/2016/11/Beyond-Verbal-and-Mayo-Clinic-CAD-Poster.jpg)
-
-
-
-https://www.nomos-elibrary.de/10.5771/0010-3497-2017-4-485/voice-first-eine-analyse-des-potentials-von-intelligenten-sprachassistenten-am-beispiel-amazon-alexa-jahrgang-50-2017-heft-4
-
-https://www.nomos-elibrary.de/10.5771/0010-3497-2017-4-485/voice-first-eine-analyse-des-potentials-von-intelligenten-sprachassistenten-am-beispiel-amazon-alexa-jahrgang-50-2017-heft-4
-
-https://www.forbes.com/sites/bernardmarr/2018/10/05/how-does-amazons-alexa-really-work/#a29b55a1937f
+* [Machine Learning In Practice: How Does Amazon's Alexa Really Work?](https://www.forbes.com/sites/bernardmarr/2018/10/05/how-does-amazons-alexa-really-work/#a29b55a1937f)
