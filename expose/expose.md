@@ -66,12 +66,7 @@ Es wird erwartet, dass die Ergebnisse der Arbeit zeigen, dass durch den Einsatz 
 2.  Was sind Sprachassistenten? *(ca. 4.000 Zeichen mit Leerzeichen)*
     * Funktionsweise
     * Welche Sprachassistenen gibt es (Stand 2019)? 
-        * Alexa
-        * Siri
-        * Google Voice
     * Alexa Skills
-        * Differenzierungen von Skills
-        * Natural Language Programing (NLP)
 3.  Ablauf bei einem Krankheitsbefall *(2.500 Zeichen mit Leerzeichen)*
     * Hausarzt
     * Notfall
@@ -79,14 +74,12 @@ Es wird erwartet, dass die Ergebnisse der Arbeit zeigen, dass durch den Einsatz 
     * Was ist der National Health Service
     * Zusammenarbeit mit Amazon Alexa
     * Technische Funktionsweise des Alexa Skills (API)
-    * Anwendung an einem Beispiel (Customer Journey)
-        * +Vergleich am klassischem Ablauf
+    * Anwendung an einem Beispiel (Customer Journey) + Vergleich am klassischem Ablauf
 4.  Eigenständig Diagnosen stellen mit Alexa Health Navigator *(ca. 8.000 Zeichen mit Leerzeichen)*
     * Health Navigator von Macadamian
     * Technische Funktionsweise des Alexa Skills (API)
     * Proof of Concept 
-    * Anwendung an einem Beispiel (Customer Journey)
-        * +Vergleich am klassischem Ablauf
+    * Anwendung an einem Beispiel (Customer Journey) + Vergleich am klassischem Ablauf
 5.  Diskussion (pro und contra) *(ca. 4.000 Zeichen mit Leerzeichen)*
 6.  Fazit *( ca. 3.000 Zeichen mit Leerzeichen)*
 
