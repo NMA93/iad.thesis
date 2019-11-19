@@ -9,7 +9,7 @@ Dipl. Gestalter/-in HF, Kommunikationsdesign mit Vertiefungsrichtung Interaction
 
 ### «Inwiefern kann der Einsatz von Sprachassistenten (VUI) einem Menschen helfen bestehende oder auftretende Krankheiten selbst zu erkennen?»
 
-> Eine Analyse der Selbstversorgung des Einsatzes von Sprachassistenten aufgrund eines Krankheitsfalls
+> Eine Analyse der Selbstversorgung beim Einsatz von Sprachassistenten aufgrund eines Krankheitsfalls
 
 ## Mentoring durch 
 
@@ -36,7 +36,7 @@ mail@larsmaeder.ch<br>
 
 # Problemstellung
 
-Vergleicht man die klassischen Symptome einer Grippe mit einer Erkältung, fällt schnell auf, dass sich die Merkmale zueinander fast nicht unterscheiden lassen. Besonders für nicht medizinisch ausgebildete Personen, sind diese kaum zu unterscheiden. Es ist daher keineswegs verwunderlich, dass erkrankte Menschen auf Nummer sicher gehen wollen und sofort Ihren Artz des Vertrauens aufsuchen möchten, auch wenn es sich wahrscheinlich nur um eine Bagatelle handeln könnte. Verschiedene Modelle wie Hausarzt- oder Telmed-Modelle probieren abhilfe zu schaffen, finden aber keinen grossen Anklang und verlieren an Attraktivität. 
+Vergleicht man klassische Symptome einer Grippe mit einer Erkältung, fällt schnell auf, dass sich die Merkmale zueinander fast nicht unterscheiden lassen. Besonders für nicht medizinisch ausgebildete Personen, sind diese kaum auseinanderzuhalten. Es ist daher keineswegs verwunderlich, dass erkrankte Menschen auf Nummer sicher gehen und sofort den Arzt ihrens Vertrauens aufsuchen, auch wenn es sich wahrscheinlich nur um eine Bagatelle handeln könnte. Verschiedene bekannte Möglichkeiten wie Hausarzt-/Telmed-Modelle oder die eher unbekanntere Variante wie Sprachassistenten (VUI) probieren Abhilfe zu schaffen. Letztere öffnet möglicherweise mit neuer Technologie und Künstlicher Intelligenz neue Türen.  
 
 # Zielsetzung und Erkenntnisinteresse
 
