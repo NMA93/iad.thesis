@@ -36,36 +36,37 @@ mail@larsmaeder.ch<br>
 
 # Problemstellung
 
-Vergleicht man klassische Symptome einer Grippe mit einer Erkältung, fällt schnell auf, dass sich die Merkmale zueinander fast nicht unterscheiden lassen. Besonders für nicht medizinisch ausgebildete Personen, sind diese kaum auseinanderzuhalten. Es ist daher keineswegs verwunderlich, dass erkrankte Menschen auf Nummer sicher gehen und sofort den Arzt ihrens Vertrauens aufsuchen, auch wenn es sich wahrscheinlich nur um eine Bagatelle handeln könnte. Verschiedene bekannte Möglichkeiten wie Hausarzt-/Telmed-Modelle oder die eher unbekanntere Variante wie Sprachassistenten (VUI) probieren Abhilfe zu schaffen. Letztere öffnet möglicherweise mit neuer Technologie und Künstlicher Intelligenz neue Türen.  
+Vergleicht man klassische Symptome einer Grippe mit einer Erkältung, fällt schnell auf, dass sich die Merkmale zueinander fast nicht unterscheiden lassen. Besonders für nicht medizinisch ausgebildete Personen, sind diese kaum auseinanderzuhalten. Es ist daher keineswegs verwunderlich, dass erkrankte Menschen auf Nummer sicher gehen und sofort den Arzt ihres Vertrauens aufsuchen. Auch wenn es sich möglicherweise nur um eine Bagatelle handeln könnte. Verschiedene bereits bekannte Alternativen wie das Hausarzt-/Telmed-Modell probieren Abhilfe zu schaffen. Eine in diesem Gebiet noch eher unbekannte Variante, der Einsatz von Sprachassistenten (VUI), öffnet möglicherweise mit fortgeschrittener Technologie und Künstlicher Intelligenz neue Türen.  
 
 # Zielsetzung und Erkenntnisinteresse
 
-Das Ziel dieser Arbeit ist es eine grobe Übersicht des aktuellen Forschungstands der aktuellen Sprachassistenen aufzuzeigen und anhand von konkreten Beispielen mit Alexa Skills, die mögliche Unterstützung und Diagnosestellung durch Alexa bei Krankheitsfällen zu analysieren.
+Das Ziel dieser Arbeit ist es eine grobe Übersicht des aktuellen Forschungstands der aktuellen Sprachassistenten im Gesundheitswesen aufzuzeigen und anhand von konkreten Beispielen mit Alexa Skills, die mögliche Unterstützung und Diagnosenstellung durch Alexa bei Krankheitsfällen zu analysieren.
 
-Die Anwendung von Alexa bei einem möglichen Krankheitsfalls wird anhand zweier Case Studys untersucht und mit einem klassischen Besuch/Ablauf bei einem Arzt/Notfall verglichen, um zu sehen inwiefern diese den Menschen unterstützen können eine selbständige Diagnose zu stellen und so eine frühzeitige Behandlung anvisiert werden kann.
+Die Anwendung von Alexa bei einem möglichen Krankheitsfalls wird anhand zweier Fallbeispiele untersucht und mit einem klassischen Besuch und/oder Ablauf bei einem Arzt sowie im Notfall verglichen, um zu sehen inwiefern diese den Menschen dabei unterstützen können, eine selbständige Diagnose zu stellen und so eine frühzeitige Behandlung anvisiert werden kann.
 
 ## Ziel der Arbeit
 
-* Aktueller Technischer Stand von Sprachassitenten zusammenfassen und präsentieren
-* Die Anwendung von Alexa Skills anhand des Anwendungsbeispiel von NHS aufzeigen
+* Aktueller Technischer Stand von Sprachassistenten zusammenfassen und präsentieren
+* Die Anwendung von Alexa Skills im Gesundheitswesen anhand des Anwendungsbeispiel von Grossbritanniens National Health Services aufzeigen
 * Proof of Concept von Macadamians Health Navigator zusammenfassen und präsentieren
-* anhand der Ergebnisse die folgende Frage beantworten: 
+* Anhand der Ergebnisse die folgende Frage beantworten: 
 «Inwiefern kann der Einsatz von Sprachassistenten (VUI) einem Menschen helfen bestehende oder auftretende Krankheiten selbst zu erkennen?»
 
-Es wird erwartet, dass die Ergebnisse der Arbeit zeigen, dass durch den Einsatz von Sprachassistenten (VUI) eine konkrete und schnelle Diagnose gestellt werden kann, so den möglichen Arztbesuch bei Bagatellfällen verhindert und je nach Krankheitsfall sogar eine Mögliche Behandlung vorgeschlagen wird. 
+Es wird erwartet, dass die Ergebnisse der Arbeit zeigen, dass durch den Einsatz von Sprachassistenten (VUI) eine konkrete und schnelle Diagnose gestellt werden kann, so den Arztbesuch bei möglichen Bagatellfällen verhindert oder je nach schwere des Krankheitsfalls, sogar eine mögliche Behandlung vorgeschlagen wird. 
 
 ### Die folgenden Fragen sollen beantwortet werden:
 
-* Wie funktionieren Sprachassistenen (VUI)?
-* Wie können Sprachassistenen (VUI) dem Mensch helfen eine Diagnose zu stellen?
-* Inwiefern kann durch VUI eine frühzeitige Diagnose/Erkennung von Krankheiten beim Menschen erzielt werden? 
+* Wie funktionieren Sprachassistenten (VUI)?
+* Wie können Sprachassistenten (VUI) dem Mensch helfen eine Diagnose zu stellen?
+* Inwiefern können Sprachassistenten (VUI) dem Mensch helfen eine Krankheits zu behandeln?
+* Wie verändert sich der Ablauf zum bisherigen Verfahren zur Erkennung von Krankheiten?
 
 # Vorläufige Gliederung
 
 1.  Einleitung *(ca. 2.500 Zeichen mit Leerzeichen)*
 2.  Was sind Sprachassistenten? *(ca. 4.000 Zeichen mit Leerzeichen)*
     * Funktionsweise
-    * Welche Sprachassistenen gibt es (Stand 2019)? 
+    * Welche Sprachassistenten gibt es (Stand 2019)? 
     * Alexa Skills
 3.  Ablauf bei einem Krankheitsbefall *(2.500 Zeichen mit Leerzeichen)*
     * Hausarzt
