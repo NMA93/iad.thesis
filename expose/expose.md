@@ -58,7 +58,7 @@ Es wird erwartet, dass die Ergebnisse der Arbeit zeigen, dass durch den Einsatz 
 
 * Wie funktionieren Sprachassistenten (VUI)?
 * Wie können Sprachassistenten (VUI) dem Mensch helfen eine Diagnose zu stellen?
-* Inwiefern können Sprachassistenten (VUI) dem Mensch helfen eine Krankheits zu behandeln?
+* Inwiefern können Sprachassistenten (VUI) dem Mensch helfen eine Krankheit zu behandeln?
 * Wie verändert sich der Ablauf zum bisherigen Verfahren zur Erkennung von Krankheiten?
 
 # Vorläufige Gliederung
@@ -89,8 +89,8 @@ Es wird erwartet, dass die Ergebnisse der Arbeit zeigen, dass durch den Einsatz 
 | Zeit          | Task                                                         |
 |---------------|--------------------------------------------------------------|
 | Ab 10.11.2019 | Weitere Literaturrecherche                                   |
-| 29.11.2019    | Thematische Hinführung (Grobe Einleitung)                    |
 | 22.11.2019    | *Mentorat mit Ulrike Felsing*                                |
+| 28.11.2019    | Thematische Hinführung (Grobe Einleitung)                    |
 | 29.11.2019    | **Abgabe Exposé**                                            |
 | 6.12.2019     | *Mentorat mit Ulrike Felsing*                                |
 | 13.12.2019    | Rohfassung Hauptteil                                         |
