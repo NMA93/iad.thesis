@@ -40,7 +40,7 @@ Vergleicht man klassische Symptome einer Grippe mit einer Erkältung, fällt sch
 
 # Zielsetzung und Erkenntnisinteresse
 
-Das Ziel dieser Arbeit ist es eine grobe Übersicht des aktuellen Forschungstands der aktuellen Sprachassistenten im Gesundheitswesen aufzuzeigen und anhand von konkreten Beispielen mit Alexa Skills, die mögliche Unterstützung und Diagnosenstellung durch Alexa bei Krankheitsfällen zu analysieren.
+Das Ziel dieser Arbeit ist es eine Übersicht des aktuellen Forschungstands der aktuellen Sprachassistenten im Gesundheitswesen aufzuzeigen und anhand von konkreten Beispielen mit Alexa Skills, die mögliche Unterstützung und Diagnosenstellung durch Alexa bei Krankheitsfällen zu analysieren.
 
 Die Anwendung von Alexa bei einem möglichen Krankheitsfalls wird anhand zweier Fallbeispiele untersucht und mit einem klassischen Besuch und/oder Ablauf bei einem Arzt sowie im Notfall verglichen, um zu sehen inwiefern diese den Menschen dabei unterstützen können, eine selbständige Diagnose zu stellen und so eine frühzeitige Behandlung anvisiert werden kann.
 
@@ -89,9 +89,9 @@ Es wird erwartet, dass die Ergebnisse der Arbeit zeigen, dass durch den Einsatz 
 | Zeit          | Task                                                         |
 |---------------|--------------------------------------------------------------|
 | Ab 10.11.2019 | Weitere Literaturrecherche                                   |
-| 29.11.2019    | Thematische Hinführung (Grobe Einleitung)                    |
 | 22.11.2019    | *Mentorat mit Ulrike Felsing*                                |
 | 29.11.2019    | **Abgabe Exposé**                                            |
+| 30.11.2019    | Thematische Hinführung (Grobe Einleitung)                    |
 | 6.12.2019     | *Mentorat mit Ulrike Felsing*                                |
 | 13.12.2019    | Rohfassung Hauptteil                                         |
 | 27.12.2019    | Rohfassung Einleitung + Schluss                              |
